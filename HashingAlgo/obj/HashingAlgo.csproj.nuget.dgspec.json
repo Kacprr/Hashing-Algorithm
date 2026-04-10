@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\CodingProjects\\HashingAlgo\\HashingAlgo\\HashingAlgo.csproj": {}
+    "D:\\GitHub\\Hashing-Algorithm\\HashingAlgo\\HashingAlgo.csproj": {}
   },
   "projects": {
-    "E:\\CodingProjects\\HashingAlgo\\HashingAlgo\\HashingAlgo.csproj": {
+    "D:\\GitHub\\Hashing-Algorithm\\HashingAlgo\\HashingAlgo.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\CodingProjects\\HashingAlgo\\HashingAlgo\\HashingAlgo.csproj",
+        "projectUniqueName": "D:\\GitHub\\Hashing-Algorithm\\HashingAlgo\\HashingAlgo.csproj",
         "projectName": "HashingAlgo",
-        "projectPath": "E:\\CodingProjects\\HashingAlgo\\HashingAlgo\\HashingAlgo.csproj",
+        "projectPath": "D:\\GitHub\\Hashing-Algorithm\\HashingAlgo\\HashingAlgo.csproj",
         "packagesPath": "C:\\Users\\kacpe\\.nuget\\packages\\",
-        "outputPath": "E:\\CodingProjects\\HashingAlgo\\HashingAlgo\\obj\\",
+        "outputPath": "D:\\GitHub\\Hashing-Algorithm\\HashingAlgo\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

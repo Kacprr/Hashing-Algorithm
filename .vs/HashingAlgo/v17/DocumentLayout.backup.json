@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "E:\\CodingProjects\\HashingAlgo\\",
+  "WorkspaceRootPath": "D:\\GitHub\\Hashing-Algorithm\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{CEC68D16-92E2-4877-BFED-BD787922622C}|HashingAlgo\\HashingAlgo.csproj|e:\\codingprojects\\hashingalgo\\hashingalgo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{CEC68D16-92E2-4877-BFED-BD787922622C}|HashingAlgo\\HashingAlgo.csproj|d:\\github\\hashing-algorithm\\hashingalgo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CEC68D16-92E2-4877-BFED-BD787922622C}|HashingAlgo\\HashingAlgo.csproj|solutionrelative:hashingalgo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -20,9 +20,9 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "E:\\CodingProjects\\HashingAlgo\\HashingAlgo\\Program.cs",
+              "DocumentMoniker": "D:\\GitHub\\Hashing-Algorithm\\HashingAlgo\\Program.cs",
               "RelativeDocumentMoniker": "HashingAlgo\\Program.cs",
-              "ToolTip": "E:\\CodingProjects\\HashingAlgo\\HashingAlgo\\Program.cs",
+              "ToolTip": "D:\\GitHub\\Hashing-Algorithm\\HashingAlgo\\Program.cs",
               "RelativeToolTip": "HashingAlgo\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAA8AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",

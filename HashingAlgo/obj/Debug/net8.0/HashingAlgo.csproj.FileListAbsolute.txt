@@ -1,0 +1,14 @@
+E:\CodingProjects\HashingAlgo\HashingAlgo\bin\Debug\net8.0\HashingAlgo.exe
+E:\CodingProjects\HashingAlgo\HashingAlgo\bin\Debug\net8.0\HashingAlgo.deps.json
+E:\CodingProjects\HashingAlgo\HashingAlgo\bin\Debug\net8.0\HashingAlgo.runtimeconfig.json
+E:\CodingProjects\HashingAlgo\HashingAlgo\bin\Debug\net8.0\HashingAlgo.dll
+E:\CodingProjects\HashingAlgo\HashingAlgo\bin\Debug\net8.0\HashingAlgo.pdb
+E:\CodingProjects\HashingAlgo\HashingAlgo\obj\Debug\net8.0\HashingAlgo.GeneratedMSBuildEditorConfig.editorconfig
+E:\CodingProjects\HashingAlgo\HashingAlgo\obj\Debug\net8.0\HashingAlgo.AssemblyInfoInputs.cache
+E:\CodingProjects\HashingAlgo\HashingAlgo\obj\Debug\net8.0\HashingAlgo.AssemblyInfo.cs
+E:\CodingProjects\HashingAlgo\HashingAlgo\obj\Debug\net8.0\HashingAlgo.csproj.CoreCompileInputs.cache
+E:\CodingProjects\HashingAlgo\HashingAlgo\obj\Debug\net8.0\HashingAlgo.dll
+E:\CodingProjects\HashingAlgo\HashingAlgo\obj\Debug\net8.0\refint\HashingAlgo.dll
+E:\CodingProjects\HashingAlgo\HashingAlgo\obj\Debug\net8.0\HashingAlgo.pdb
+E:\CodingProjects\HashingAlgo\HashingAlgo\obj\Debug\net8.0\HashingAlgo.genruntimeconfig.cache
+E:\CodingProjects\HashingAlgo\HashingAlgo\obj\Debug\net8.0\ref\HashingAlgo.dll

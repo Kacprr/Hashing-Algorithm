@@ -1,2 +1,7 @@
-Hashing algorithm for univeristy project
-open .csproj in hashingalgo folder to open source code in prefered IDE.
+ensure you have dotnet 8 and required dependancies.
+open dir of .csproj in terminal
+use commands:
+dotnet build
+dotnet run
+
+enjoy
